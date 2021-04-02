@@ -1,7 +1,7 @@
 export default {
     "type": "document",
     "name": "person",
-    "title": "Person",
+    "title": "Usuários",
     "fields": [
         {
             "type": "string",

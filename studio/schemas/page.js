@@ -1,7 +1,7 @@
 export default {
     "type": "document",
     "name": "page",
-    "title": "Page",
+    "title": "Páginas",
     "fields": [
         {
             "type": "string",

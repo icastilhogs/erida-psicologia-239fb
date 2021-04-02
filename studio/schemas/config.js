@@ -1,7 +1,7 @@
 export default {
     "type": "document",
     "name": "config",
-    "title": "Site Configuration",
+    "title": "Configurações do site",
     "fields": [
         {
             "type": "string",
@@ -29,12 +29,12 @@ export default {
             "name": "palette",
             "title": "Color Palette",
             "description": "The color palette of the site",
-            "initialValue": "blue",
+            "initialValue": "#e4c3c3",
             "validation": Rule => Rule.required(),
             "options": {
                 "list": [
-                    "blue",
-                    "cyan",
+                    "#e4c3c3",
+                    "#563e5b",
                     "green",
                     "orange",
                     "purple"

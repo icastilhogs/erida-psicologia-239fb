@@ -1,7 +1,7 @@
 export default {
     "type": "document",
     "name": "landing",
-    "title": "Landing Page",
+    "title": "Páginas de captura",
     "fields": [
         {
             "type": "string",

@@ -1525,14 +1525,14 @@ webpackJsonp([0],[,function(e,t,n){e.exports=n(657)()},function(e,t,n){var r=n(1
             "type": "string",
             "name": "title",
             "title": "Title",
-            "description": "The title of the section",
+            "description": "O título da sessão",
             "validation": null
         },
         {
             "type": "string",
             "name": "subtitle",
             "title": "Subtitle",
-            "description": "The subtitle of the section",
+            "description": "O subtítulo da sessão",
             "validation": null
         },
         {

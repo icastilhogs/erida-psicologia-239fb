@@ -15,7 +15,7 @@ function transformType(type) {
 
 export default () =>
     S.list()
-        .title("Content")
+        .title("Conteúdo")
         .items([
             ...S.documentTypeListItems().map(transformType)
         ]);

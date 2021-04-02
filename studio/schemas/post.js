@@ -1,32 +1,32 @@
 export default {
     "type": "document",
     "name": "post",
-    "title": "Post",
+    "title": "Artigos",
     "fields": [
         {
             "type": "string",
             "name": "title",
-            "title": "Title",
-            "description": "The title of the post",
+            "title": "Título",
+            "description": "O título do artigo",
             "validation": Rule => Rule.required()
         },
         {
             "type": "string",
             "name": "subtitle",
-            "title": "Subtitle",
-            "description": "The text shown just below the title or the featured image",
+            "title": "Subtítulo",
+            "description": "O texto embaixo do título ou da imagem em destaque",
             "validation": null
         },
         {
             "type": "date",
             "name": "date",
-            "title": "Date",
+            "title": "Data",
             "validation": Rule => Rule.required()
         },
         {
             "type": "reference",
             "name": "author",
-            "title": "Author",
+            "title": "Autor",
             "description": "Post author",
             "validation": null,
             "to": [

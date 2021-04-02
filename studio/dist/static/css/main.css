@@ -3530,13 +3530,13 @@ span.DefaultButton_content_3vpzk {
 }
 .DefaultButton_color__primary_2utqu {
 	border-color: #156dff;
-	background-color: #156dff;
+	background-color: #e4c3c3;
 	color: #fff;
 }
 @media (hover: hover) {
 	.DefaultButton_color__primary_2utqu:not(.DefaultButton_disabled_25U87):hover {
 		border-color: #156dff;
-		background-color: #2e7eff;
+		background-color: #e4c3c3;
 	}
 }
 .DefaultButton_color__primary_2utqu .DefaultButton_spinner_kUOGD {
@@ -3549,24 +3549,24 @@ span.DefaultButton_content_3vpzk {
 .DefaultButton_color__primary_2utqu.DefaultButton_inverted_29NxY {
 	border-color: rgba(36, 163, 227, .5);
 	background-color: transparent;
-	color: #156dff;
+	color: #e4c3c3;
 }
 .DefaultButton_color__primary_2utqu.DefaultButton_inverted_29NxY.DefaultButton_root_t6uj5:focus {
 	border-color: #24a3e3;
 }
 .DefaultButton_color__primary_2utqu.DefaultButton_inverted_29NxY .DefaultButton_spinner_kUOGD {
 	background-color: #fff;
-	color: #156dff;
+	color: #e4c3c3;
 }
 @media (hover: hover) {
 	.DefaultButton_color__primary_2utqu.DefaultButton_inverted_29NxY:not(.DefaultButton_disabled_25U87):hover {
-		border-color: #156dff;
+		border-color: #e4c3c3;
 		background-color: rgba(36, 163, 227, .05);
 	}
 }
 .DefaultButton_color__primary_2utqu.DefaultButton_simple_cg-jF {
 	background-color: transparent;
-	color: #156dff;
+	color: #e4c3c3;
 }
 @media (hover: hover) {
 	.DefaultButton_color__primary_2utqu.DefaultButton_simple_cg-jF:not(.DefaultButton_disabled_25U87):hover {
@@ -3799,13 +3799,13 @@ span.DefaultButton_content_3vpzk {
 	color: #303030;
 }
 .selectable_selected_21Ajz {
-	background-color: #156dff !important;
-	color: #fff !important;
+	background-color: #e4c3c3;
+	color: #fff;
 }
 @media (hover: hover) {
 	.selectable_selected_21Ajz:hover {
-		background-color: #156dff !important;
-		color: #fff !important;
+		background-color: #e4c3c3;
+		color: #fff;
 	}
 }
 .selectable_selected_21Ajz:focus {
@@ -3813,8 +3813,8 @@ span.DefaultButton_content_3vpzk {
 }
 @media (hover: hover) {
 	.selectable_selected_21Ajz:focus {
-		background-color: #156dff !important;
-		color: #fff !important;
+		background-color: #e4c3c3;
+		color: #fff;
 	}
 }
 .selectable_highlighted_1kR7E,
@@ -6721,7 +6721,7 @@ span.DefaultButton_content_3vpzk {
 	.react-datepicker__time-box
 	ul.react-datepicker__time-list
 	li.react-datepicker__time-list-item--selected {
-	background-color: #216ba5;
+	background-color: #e4c3c3;
 	color: #fff;
 	font-weight: 700;
 }
@@ -6730,7 +6730,7 @@ span.DefaultButton_content_3vpzk {
 	.react-datepicker__time-box
 	ul.react-datepicker__time-list
 	li.react-datepicker__time-list-item--selected:hover {
-	background-color: #216ba5;
+	background-color: #e4c3c3;
 }
 .react-datepicker__time-container
 	.react-datepicker__time
@@ -6808,7 +6808,7 @@ span.DefaultButton_content_3vpzk {
 .react-datepicker__day--in-selecting-range,
 .react-datepicker__day--selected {
 	border-radius: .3rem;
-	background-color: #216ba5;
+	background-color: #e4c3c3;
 	color: #fff;
 }
 .react-datepicker__day--in-range:hover,
@@ -7205,7 +7205,7 @@ span.DefaultButton_content_3vpzk {
 	color: #e8e8e8;
 }
 .BaseDateTimeInput_datepicker_1VgC3 .react-datepicker__day--selected {
-	background-color: #156dff;
+	background-color: #e4c3c3;
 	color: #fff;
 }
 .BaseDateTimeInput_datepicker_1VgC3 li.react-datepicker__time-list-item {
@@ -7921,8 +7921,8 @@ span.DefaultButton_content_3vpzk {
 	pointer-events: none;
 }
 .ToggleButton_selected_1rkLy {
-	background-color: #136790 !important;
-	color: #fff !important;
+	background-color: #136790;
+	color: #fff;
 }
 .AnnotationButtons_root_1YBQu {
 	display: -webkit-box;
@@ -13749,13 +13749,13 @@ a {
 	color: #24a3e3;
 }
 ::-moz-selection {
-	background: rgba(36, 163, 227, .2);
+	background: rgba(85, 15, 38, 0.2);
 }
 ::selection {
-	background: rgba(36, 163, 227, .2);
+	background: rgba(170, 11, 122, 0.2);
 }
 :focus {
-	outline-color: rgba(36, 163, 227, .4);
+	outline-color: rgba(26, 129, 52, 0.4);
 }
 body#sanityBody {
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Droid Sans,
